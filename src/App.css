@@ -1,0 +1,14 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.json-preview {
+  background-color: #f6f8fa;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  white-space: pre-wrap;
+}
